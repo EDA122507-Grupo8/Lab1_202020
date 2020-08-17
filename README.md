@@ -9,6 +9,6 @@
 
 
 Integrantes:
-  Sebastián Gaona Castellanos, s.gaona@uniandes.edu.co, 202012158
-  juan Sebastian Ibañez Capacho, j.ibañezc@uniandes.edu.co, 202014444
-  Boris Nicolás Reyes Rincón, b.reyesr@uniandes.edu.co, 202014743
+  Sebastián Gaona Castellanos, s.gaona@uniandes.edu.co, 202012158.
+  juan Sebastian Ibañez Capacho, j.ibañezc@uniandes.edu.co, 202014444.
+  Boris Nicolás Reyes Rincón, b.reyesr@uniandes.edu.co, 202014743.
